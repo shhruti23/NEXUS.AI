@@ -1,0 +1,12 @@
+[
+  {
+    "query": "What is the token encryption standard for offline authentication?",
+    "expected_source": "enterprise_security_protocol.txt",
+    "expected_page": 1
+  },
+  {
+    "query": "How is local data persistence handled in air-gapped environments?",
+    "expected_source": "storage_architecture.md",
+    "expected_page": 1
+  }
+]
